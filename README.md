@@ -1,3 +1,3 @@
 # Guess-My-Number
 
-## A guesssing using JavaScript
+### A guesssing game using JavaScript
